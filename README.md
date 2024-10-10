@@ -7,48 +7,50 @@ This platform utilizes a robust machine learning model trained on a vast dataset
 ## Running the main.py file
 
 We can either run the file using the menu or run it using the cmd command 'python run main.py'.
-![Image1!](Screenshots/ss1.png)
+![Image1!](Screenshots/wss1.png)
 
 ## Running the local web server
 
 A local web server address would be generated to run our application.
-![Image2!](Screenshots/ss2.png)
+![Image2!](Screenshots/wss2.png)
 
 ## Input Symptoms
 
 Now we need to input the symptoms in the dialog box. We can do so by directly inputting the symptoms or by audio input(speech recognition).
-![Image3!](Screenshots/ss3.png)
+![Image3!](Screenshots/wss3.png)
 
 ## Running prediction model
 
 We can run the prediction model by clicking on the 'Get Information' Button. It will predict the disease and the other relevant data using the Machine Learning Model. Here we are using SVM (Support Vector Machine).
-![Image4!](Screenshots/ss4.png)
+![Image4!](Screenshots/wss4.png)
 
 ## Disease Information
 
 ### Predicted Disease
 
-![Image5!](Screenshots/ss5.png)
+![Image5!](Screenshots/wss5.png)
 
 ### Description
 
-![Image6!](Screenshots/ss6.png)
+![Image6!](Screenshots/wss6.png)
 
 ### Precautions
 
-![Image7!](Screenshots/ss7.png)
+![Image7!](Screenshots/wss7.png)
 
 ### Medications
 
-![Image8!](Screenshots/ss8.png)
+![Image8!](Screenshots/wss8.png)
 
 ### Workout
 
-![Image9!](Screenshots/ss9.png)
+![Image9!](Screenshots/wss9.png)
 
 ### Diet
 
-![Image10!](Screenshots/ss10.png)
+![Image10!](Screenshots/wss10.png)
+
+<!--
 
 ### About Me Page
 
@@ -65,3 +67,6 @@ We can run the prediction model by clicking on the 'Get Information' Button. It 
 ### Blog Page
 
 ![Image14!](Screenshots/ss14.png)
+-->
+
+# The End
